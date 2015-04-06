@@ -1,0 +1,2 @@
+# starscom
+sample starscm project
